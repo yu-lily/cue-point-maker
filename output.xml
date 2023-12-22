@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<DJ_PLAYLISTS Version="1.0.0">
+  <PRODUCT Name="rekordbox" Version="6.7.3" Company="AlphaTheta"/>
+  <COLLECTION Entries="1303">    <TRACK TrackID="103003939" Name="blind + desire (feat. LuvLance) (ISOxo Remix)" Artist="Knock2, ISOxo" Composer="" Album="niteharts" Grouping="" Genre="" Kind="MP3 File" Size="6538554" TotalTime="163" DiscNumber="2" TrackNumber="3" Year="0" AverageBpm="150.00" DateAdded="2023-05-05" BitRate="320" SampleRate="44100" Comments="id[spotify.com:track:7wGh23X2XXpO2JtxxnxeYJ]" PlayCount="0" Rating="0" Location="file://localhost/Users/mireska/Music/dl/main_dl/Knock2%20-%20blind%20+%20desire%20(feat.%20LuvLance)%20(ISOxo%20Remix).mp3" Remixer="" Tonality="Bbm" Label="" Mix="">
+      <TEMPO Inizio="0.026" Bpm="150.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="PROCESSED" Type="0" Start="6.426" Num="-1"/><POSITION_MARK Name="PROCESSED" Type="0" Start="19.226" Num="-1"/><POSITION_MARK Name="PROCESSED" Type="0" Start="32.026" Num="-1"/><POSITION_MARK Name="PROCESSED" Type="0" Start="44.826" Num="-1"/><POSITION_MARK Name="" Type="0" Start="57.626" Num="-1"/>
+    </TRACK>
+    </COLLECTION>
+</DJ_PLAYLISTS>
